@@ -1,0 +1,5 @@
+---
+app_user: "anil"
+http_conf: '"{{ inentory_hostname }}.conf"'
+http_port: "8080"
+disable_default: true
